@@ -1,0 +1,25 @@
+PODS:
+  - MASConnecta (1.5.00):
+    - MASFoundation (= 1.5.00)
+    - MASIdentityManagement (= 1.5.00)
+  - MASFoundation (1.5.00)
+  - MASIdentityManagement (1.5.00):
+    - MASFoundation (= 1.5.00)
+  - MASUI (1.5.00):
+    - MASFoundation (= 1.5.00)
+
+DEPENDENCIES:
+  - MASConnecta (~> 1.5.00)
+  - MASFoundation (~> 1.5.00)
+  - MASIdentityManagement (~> 1.5.00)
+  - MASUI (~> 1.5.00)
+
+SPEC CHECKSUMS:
+  MASConnecta: dfb02fc38f27ee37c7146585c37a8cdb2fe1b430
+  MASFoundation: c1951d902893e1f66e1fdea144adbff303fe829c
+  MASIdentityManagement: 2887edde7ad151ad1400314aebe576762afa4604
+  MASUI: d7a50423a15361d773b46c75ab6ab61dd389774c
+
+PODFILE CHECKSUM: 7f9c94cce32a67e9d3b5f77f0fcdb0ad0bdf696b
+
+COCOAPODS: 1.1.0
